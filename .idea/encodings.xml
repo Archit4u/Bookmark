@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/libs/gson-2.3.1.jar" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/bookmark_dark.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/bookmark_dark.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/bookmark_light.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/bookmark_light.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/coconut.jpg" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/coffee.jpg" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/cross.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/cross.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ice.jpg" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/milk.jpg" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/share.png" charset="windows-1252" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
